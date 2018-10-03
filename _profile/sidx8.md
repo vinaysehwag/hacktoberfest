@@ -7,7 +7,7 @@ title: profile
 name: Siddharth Sinha
 
 # Optional, atleast 2 recommended
-email: <Your email address>
+email: siddharth0sinha@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
