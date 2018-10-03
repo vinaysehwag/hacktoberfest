@@ -4,7 +4,7 @@ layout: page
 title: profile
 
 # Required
-name: <Your name here>
+name: Siddharth Sinha
 
 # Optional, atleast 2 recommended
 email: <Your email address>
