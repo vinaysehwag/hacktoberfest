@@ -8,24 +8,11 @@ name: Siddharth Sinha
 
 # Optional, atleast 2 recommended
 email: siddharth0sinha@gmail.com
-quora: <Your Quora profile>
-vimeo: <Your Vimeo profile>
-reddit: <Your reddit profile>
-google: <Your Google+ profile>
-gitlab: <Your GitLab profile>
-medium: <Your Medium profile>
 github: https://github.com/sidx8
-lastfm: <Your lastfm profile>
-spotify: <Your Spotify profile>
-youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
-pinterest: <Your Pinterest profile>
-stackoverflow: <Your StackOverflow profile>
+twitter: https://twitter.com/sidx82
 
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://avatars1.githubusercontent.com/u/43761908?s=460&v=4
 ---
