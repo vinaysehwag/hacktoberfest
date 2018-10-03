@@ -14,7 +14,7 @@ reddit: <Your reddit profile>
 google: <Your Google+ profile>
 gitlab: <Your GitLab profile>
 medium: <Your Medium profile>
-github: <Your GitHub profile>
+github: https://github.com/sidx8
 lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
