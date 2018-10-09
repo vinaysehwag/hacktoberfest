@@ -11,8 +11,8 @@ name: Arjit Bhandari
 
 # Optional, atleast 2 recommended
 email: arjitbhandari@gmail.com
-quora: <Your Quora profile>
-youtube: <Your YouTube profile>
+quora: https://www.quora.com/profile/Arjit-Bhandari-1
+youtube: https://www.youtube.com/channel/UCOv5G8CI8s1bNbCf82CNXfw
 twitter: https://twitter.com/BhandariArjit
 instagram: <Your Instagram profile>
 pinterest: <Your Pinterest profile>
