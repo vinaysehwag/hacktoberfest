@@ -7,13 +7,13 @@ layout: page
 title: profile
 
 # Required
-name: <Your name here>
+name: Arjit Bhandari
 
 # Optional, atleast 2 recommended
 email: arjitbhandari@gmail.com
 quora: <Your Quora profile>
 youtube: <Your YouTube profile>
-twitter: @BhandariArjit
+twitter: https://twitter.com/BhandariArjit
 instagram: <Your Instagram profile>
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
