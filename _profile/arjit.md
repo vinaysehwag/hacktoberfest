@@ -14,9 +14,7 @@ email: arjitbhandari@gmail.com
 quora: https://www.quora.com/profile/Arjit-Bhandari-1
 youtube: https://www.youtube.com/channel/UCOv5G8CI8s1bNbCf82CNXfw
 twitter: https://twitter.com/BhandariArjit
-instagram: <Your Instagram profile>
-pinterest: <Your Pinterest profile>
-stackoverflow: <Your StackOverflow profile>
+instagram: https://www.instagram.com/bhandariarjit
 
 # Optional
 # Upload the image to imgur and
