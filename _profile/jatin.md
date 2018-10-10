@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: <Your name here>
+name: Jatin Singh
 
 # Optional, atleast 2 recommended
 email: jsgautam697@gmail.com
@@ -15,8 +15,6 @@ quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
 google: <Your Google+ profile>
-gitlab: <Your GitLab profile>
-medium: <Your Medium profile>
 github: <Your GitHub profile> 
 lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
