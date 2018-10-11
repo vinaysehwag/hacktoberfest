@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: <Your name here>
+name: Prateek Tiwari
 
 # Optional, atleast 2 recommended
 email: nopanictri@yahoo.com
