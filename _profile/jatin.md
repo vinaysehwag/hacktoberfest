@@ -11,11 +11,11 @@ name: Jatin Singh
 
 # Optional, atleast 2 recommended
 email: jsgautam697@gmail.com
-google: <Your Google+ profile>
+google: https://plus.google.com/u/0/114778289839588619753
 github: <Your GitHub profile> 
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
-instagram: <Your Instagram profile>
+instagram: https://www.instagram.com/jatinsingh9601/
 pinterest: <Your Pinterest profile>
 
 # Optional
