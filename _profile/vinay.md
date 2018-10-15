@@ -10,7 +10,7 @@ title: profile
 name: Vinay Sehwag
 
 # Optional, atleast 2 recommended
-email: jsgautam697@gmail.com
+email: vinaysehwag8055@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
