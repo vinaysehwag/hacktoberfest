@@ -10,7 +10,7 @@ title: profile
 name: <Your name here>
 
 # Optional, atleast 2 recommended
-email: vinaysehwag8055@gmail.com
+email: jsgautam697@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
