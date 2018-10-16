@@ -11,11 +11,9 @@ name: Vinay Sehwag
 
 # Optional, atleast 2 recommended
 email: vinaysehwag8055@gmail.com
-quora: <Your Quora profile>
-google: <Your Google+ profile>
-github: <Your GitHub profile> 
-youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
+google: https://plus.google.com/u/0/105689640684157386396
+github: https://github.com/vinaysehwag
+youtube: https://www.youtube.com/channel/UCgtrRO23cVuhD8wMuY3AS5Q
 instagram: https://www.instagram.com/vinaysehwag14/
 
 # Optional
