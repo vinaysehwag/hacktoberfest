@@ -7,11 +7,10 @@ layout: page
 title: profile
 
 # Required
-name: Vinay Sehwag
+name: Krishan Kumar Srivastava
 
 # Optional, atleast 2 recommended
-email: vinaysehwag8055@gmail.com
-
+email: krishankumarsrivastava289@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>

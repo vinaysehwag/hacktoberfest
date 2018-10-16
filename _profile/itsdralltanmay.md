@@ -7,11 +7,10 @@ layout: page
 title: profile
 
 # Required
-name: Vinay Sehwag
+name: <Your name here>
 
 # Optional, atleast 2 recommended
-email: vinaysehwag8055@gmail.com
-
+email: <Your email address>
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
