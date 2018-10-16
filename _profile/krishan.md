@@ -7,20 +7,28 @@ layout: page
 title: profile
 
 # Required
-name: Vinay Sehwag
+name: Krishan Kumar Srivastava
 
 # Optional, atleast 2 recommended
-email: vinaysehwag8055@gmail.com
-
+email: krishankumarsrivastava289@gmail.com
 quora: <Your Quora profile>
+vimeo: <Your Vimeo profile>
+reddit: <Your reddit profile>
 google: <Your Google+ profile>
+gitlab: <Your GitLab profile>
+medium: <Your Medium profile>
 github: <Your GitHub profile> 
+lastfm: <Your lastfm profile>
+spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
-instagram: https://www.instagram.com/vinaysehwag14/
+linkedin: <Your LinkedIn profile>
+instagram: <Your Instagram profile>
+pinterest: <Your Pinterest profile>
+stackoverflow: <Your StackOverflow profile>
 
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: https://i.imgur.com/OQAC47b.jpg
+picture: <Link to your image>
 ---
