@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: bhavishya
+name: Bhavishya
 
 # Optional, atleast 2 recommended
 email: bhavishya20@gmail.com
