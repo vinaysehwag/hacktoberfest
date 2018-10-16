@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: <Your name here>
+name: Krishan Kumar Srivastava
 
 # Optional, atleast 2 recommended
 email: krishankumarsrivastava289@gmail.com
