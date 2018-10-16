@@ -10,13 +10,13 @@ title: profile
 name: Tanmay Drall
 
 # Optional, atleast 2 recommended
-email: <Your email address>
-quora: <Your Quora profile>
-github: <Your GitHub profile> 
-twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
-pinterest: <Your Pinterest profile>
+email: tanmaydrall620@gmail.com 
+quora: https://www.quora.com/profile/Tanmay-Drall
+github: https://github.com/itsdralltanmay
+twitter: https://twitter.com/itsdralltanmay
+linkedin: https://www.linkedin.com/in/tanmay-drall-88b795141/
+instagram: https://www.instagram.com/itsdralltanmay
+pinterest: https://in.pinterest.com/Itstanmaydrall/
 
 # Optional
 # Upload the image to imgur and
