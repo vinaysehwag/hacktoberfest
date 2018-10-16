@@ -1,52 +1,52 @@
+# Git & Hacktoberfest
 
-                HacktoberFest Starter Project
+Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing! Celebrate Hacktoberfest by getting involved in the open source community by completing some simple tasks in this project.
 
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator. You can make a profile of yourself on the community's github page.
 
-Celebrate Hacktoberfest by getting involved in the open source community by completing some simple tasks in this project.
+## Learning Git
 
-This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
+Git has some wonderful videos about VCS systems and Git basics. Please go through those videos beforehand to have a better sense of what is happening. Click image for videos.
 
-https://github.com/DotSlashCommunity/hacktoberfest
+[![Git Basics](https://i.imgur.com/my7X0y9.png)](https://git-scm.com/videos)
 
+## What is Hacktoberfest?
 
-	What is Hacktoberfest?
+A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community. https://hacktoberfest.digitalocean.com
 
+## How to contribute to this project?
 
-A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+You need to have at least 5 pull requests to clear hacktoberfest. Here is a quick way to contribute to this project:
 
-https://hacktoberfest.digitalocean.com/
+- Copy `_profile/_template.md` and create a new file with your     username. Please remember to use your username so the file       name does not have any spaces in it.
+- Submit a PR with the blank template file.
+- Fill details in the file iteratively and make a PR. You need     to do that 4 more times at least.
 
-How to contribute to this project
+## Basic Instructions
 
-Here are 2 quick and painless ways to contribute to this project:
+- Fork this repository (click the Fork button in the top right     of the repository page).
 
-    Add your name to the ksdme.md file
-    Put your profile links in ksdme.md file
-    
-Choose one or 2, make a pull request for your work and wait for it to be merged!
+- Clone your fork down to your local machine using:
+  ```
+  git clone https://github.com/your-username/hacktoberfest.git
+  ```
 
-	Getting started
+- Create a new branch
+  ```
+  git checkout -b "[BRANCH NAME]"
+  ```
 
-Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+- Make your changes and then commit and push those changes using:
+  ```
+  git add .
+  git commit -m "[COMMIT MESSAGE HERE]"
+  git push origin "[BRANCH NAME]"
+  ```
 
-Clone your fork down to your local machine
+- Create a pull request from the changes of this new branch              using the Github site.
 
-git clone https://github.com/your-username/hacktoberfest.git
+- Wait for your PR review and merge approval! and Star this repository   if you had fun!
 
-Create a branch
+## Get Help
 
-git checkout -b branch-name
-
-Make your changes (choose from any task below)
-Commit and push
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
-
-Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
-
-Wait for your PR review and merge approval!
-
-Star this repository if you had fun!
-
+You can get help from the DotSlash Community WhatsApp group or from me as [@ksdme](https://t.me/ksdme) on Telegram.
