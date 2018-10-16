@@ -11,6 +11,7 @@ name: Vinay Sehwag
 
 # Optional, atleast 2 recommended
 email: vinaysehwag8055@gmail.com
+twitter: https://twitter.com/VinaySehwag4
 google: https://plus.google.com/u/0/105689640684157386396
 github: https://github.com/vinaysehwag
 youtube: https://www.youtube.com/channel/UCgtrRO23cVuhD8wMuY3AS5Q
