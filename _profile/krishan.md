@@ -11,9 +11,9 @@ name: Krishan Kumar Srivastava
 
 # Optional, atleast 2 recommended
 email: krishankumarsrivastava289@gmail.com
-google: <Your Google+ profile>
-github: <Your GitHub profile> 
-youtube: <Your YouTube profile>
+google: https://plus.google.com/u/0/110623237275677595642
+github: https://github.com/KrishanKumarSrivastava 
+youtube: https://www.youtube.com/channel/UCS5aAuaP1EwSBugGCSb1CjQ
 twitter: <Your Twitter profile>
 instagram: <Your Instagram profile>
 
