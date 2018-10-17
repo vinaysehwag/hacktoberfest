@@ -10,8 +10,8 @@ title: profile
 name: Aashish Malik
 
 # Optional, atleast 2 recommended
-email:	imashishmalik.45@gmail.com
-quora: <Your Quora profile>
+email: imashishmalik.45@gmail.com
+quora: https://www.quora.com/profile/Aashish-41
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
 google: <Your Google+ profile>
