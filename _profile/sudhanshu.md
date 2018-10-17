@@ -14,11 +14,11 @@ email: sudhanshu2268@gmail.com
 
 google: https://plus.google.com/u/0/108963881874536064969
 medium: https://medium.com/@sudhanshu2268
-github: <Your GitHub profile> 
-youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
+github: https://github.com/sud2268
+youtube: https://www.youtube.com/channel/UCL8gOxKSwDpNe76yEX9gYmw
+twitter: https://twitter.com/sudhanshu2408
+linkedin: https://www.linkedin.com/in/sudhanshu-kumar-21a86a148/
+
 
 
 
