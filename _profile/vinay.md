@@ -7,20 +7,20 @@ layout: page
 title: profile
 
 # Required
-name: Bhavishya
+name: Vinay Sehwag
 
 # Optional, atleast 2 recommended
-email: bhavishya20@gmail.com
-reddit: https://www.reddit.com/user/RayXover
-google: https://plus.google.com/u/0/101285328873271335157
-github: https://github.com/JiroZ
-twitter: @bhavishyakumar1
-instagram: @bhavishya_kv
-stackoverflow: https://stackoverflow.com/users/6753372/bhavishya
+email: vinaysehwag8055@gmail.com
 
+quora: <Your Quora profile>
+google: <Your Google+ profile>
+github: <Your GitHub profile> 
+youtube: <Your YouTube profile>
+twitter: <Your Twitter profile>
+instagram: https://www.instagram.com/vinaysehwag14/
 
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://i.imgur.com/OQAC47b.jpg
 ---

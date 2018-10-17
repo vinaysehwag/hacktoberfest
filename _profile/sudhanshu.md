@@ -7,16 +7,19 @@ layout: page
 title: profile
 
 # Required
-name: Bhavishya
+name: Sudhanshu Kumar
 
 # Optional, atleast 2 recommended
-email: bhavishya20@gmail.com
-reddit: https://www.reddit.com/user/RayXover
-google: https://plus.google.com/u/0/101285328873271335157
-github: https://github.com/JiroZ
-twitter: @bhavishyakumar1
-instagram: @bhavishya_kv
-stackoverflow: https://stackoverflow.com/users/6753372/bhavishya
+email: sudhanshu2268@gmail.com
+
+google: https://plus.google.com/u/0/108963881874536064969
+medium: https://medium.com/@sudhanshu2268
+github: <Your GitHub profile> 
+youtube: <Your YouTube profile>
+twitter: <Your Twitter profile>
+linkedin: <Your LinkedIn profile>
+instagram: <Your Instagram profile>
+
 
 
 # Optional
