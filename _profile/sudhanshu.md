@@ -12,7 +12,7 @@ name: Sudhanshu Kumar
 # Optional, atleast 2 recommended
 email: sudhanshu2268@gmail.com
 
-google: <Your Google+ profile>
+google: https://plus.google.com/u/0/108963881874536064969
 medium: <Your Medium profile>
 github: <Your GitHub profile> 
 youtube: <Your YouTube profile>
