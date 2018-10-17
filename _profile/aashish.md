@@ -13,10 +13,9 @@ name: Aashish Malik
 email: imashishmalik.45@gmail.com
 quora: https://www.quora.com/profile/Aashish-41
 medium: https://medium.com/@theashishmalik
-github: <Your GitHub profile>
+github: https://github.com/aashish45
 linkedin: <Your LinkedIn profile>
 instagram: <Your Instagram profile>
-pinterest: <Your Pinterest profile>
 
 # Optional
 # Upload the image to imgur and
