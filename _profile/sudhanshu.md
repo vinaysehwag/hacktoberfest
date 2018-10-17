@@ -13,7 +13,7 @@ name: Sudhanshu Kumar
 email: sudhanshu2268@gmail.com
 
 google: https://plus.google.com/u/0/108963881874536064969
-medium: <Your Medium profile>
+medium: https://medium.com/@sudhanshu2268
 github: <Your GitHub profile> 
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
