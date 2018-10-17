@@ -7,18 +7,16 @@ layout: page
 title: profile
 
 # Required
-name: <Amit Singh>
+name: Amit Singh
 
 # Optional, atleast 2 recommended
 email: amit2020cs@gmail.com
-quora: <Your Quora profile>
-reddit: <Your reddit profile>
-google: <Your Google+ profile>
-github: <Your GitHub profile> 
-twitter: <Your Twitter profile>
+quora: https://www.quora.com/profile/Amit-Singh-5184
+github: https://github.com/amit2020cs
+twitter: https://twitter.com/amit2020cs
 linkedin: https://www.linkedin.com/in/amit-singh-2020/
-instagram: <Your Instagram profile>
-pinterest: <Your Pinterest profile>
+instagram: https://www.instagram.com/amit2020cs/
+pinterest: https://in.pinterest.com/amit2020cs/
 stackoverflow: https://stackoverflow.com/users/9011225/amit-singh
 
 # Optional
