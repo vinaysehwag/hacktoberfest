@@ -10,7 +10,7 @@ title: profile
 name: <Amit Singh>
 
 # Optional, atleast 2 recommended
-email: <amit2020cs@gmail.com>
+email: amit2020cs@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
