@@ -11,13 +11,13 @@ name: Prashant Singh
 
 # Optional, atleast 2 recommended
 email: prashantxc8@gmail.com
-gitlab: <Your GitLab profile>
-medium: <Your Medium profile>
-github: <Your GitHub profile> 
-youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
+gitlab: https://gitlab.com/prashantxc
+medium: https://medium.com/@prashantxc
+github: https://github.com/prashantxc
+youtube: https://www.youtube.com/channel/UC52rPqJIT2hPfwWFSHTrP7w
+twitter: https://twitter.com/speakingsingh
+linkedin: https://www.linkedin.com/in/prashantxc/
+instagram: https://www.instagram.com/itsprashantsingh/
 
 # Optional
 # Upload the image to imgur and
