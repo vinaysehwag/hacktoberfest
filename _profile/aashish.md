@@ -7,17 +7,15 @@ layout: page
 title: profile
 
 # Required
-name: Bhavishya
+name: Aashish Malik
 
 # Optional, atleast 2 recommended
-email: bhavishya20@gmail.com
-reddit: https://www.reddit.com/user/RayXover
-google: https://plus.google.com/u/0/101285328873271335157
-github: https://github.com/JiroZ
-twitter: @bhavishyakumar1
-instagram: @bhavishya_kv
-stackoverflow: https://stackoverflow.com/users/6753372/bhavishya
-
+email: imashishmalik.45@gmail.com
+quora: https://www.quora.com/profile/Aashish-41
+medium: https://medium.com/@theashishmalik
+github: https://github.com/aashish45
+linkedin: https://www.linkedin.com/in/aashish-malik-22ab81125/
+instagram: https://www.instagram.com/theashishmalik/
 
 # Optional
 # Upload the image to imgur and

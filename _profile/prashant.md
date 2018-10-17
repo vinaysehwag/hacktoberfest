@@ -7,20 +7,20 @@ layout: page
 title: profile
 
 # Required
-name: Bhavishya
+name: Prashant Singh
 
 # Optional, atleast 2 recommended
-email: bhavishya20@gmail.com
-reddit: https://www.reddit.com/user/RayXover
-google: https://plus.google.com/u/0/101285328873271335157
-github: https://github.com/JiroZ
-twitter: @bhavishyakumar1
-instagram: @bhavishya_kv
-stackoverflow: https://stackoverflow.com/users/6753372/bhavishya
-
+email: prashantxc8@gmail.com
+gitlab: <Your GitLab profile>
+medium: <Your Medium profile>
+github: <Your GitHub profile> 
+youtube: <Your YouTube profile>
+twitter: <Your Twitter profile>
+linkedin: <Your LinkedIn profile>
+instagram: <Your Instagram profile>
 
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://i.imgur.com/SbaYfIF.jpg
 ---
