@@ -30,5 +30,5 @@ stackoverflow: <Your StackOverflow profile>
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://i.imgur.com/SbaYfIF.jpg
 ---
