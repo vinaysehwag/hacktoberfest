@@ -25,3 +25,4 @@ stackoverflow: https://stackoverflow.com/users/9011225/amit-singh
 # Upload the image to imgur and
 # paste the direct link to image
 picture: <Link to your image>
+---
