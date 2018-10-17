@@ -11,13 +11,7 @@ name: Avinash Kumar
 
 # Optional, atleast 2 recommended
 email: avinashkr1612@gmail.com
-quora: <Your Quora profile>
-vimeo: <Your Vimeo profile>
-reddit: <Your reddit profile>
-google: <Your Google+ profile>
-gitlab: <Your GitLab profile>
-medium: <Your Medium profile>
-github: <Your GitHub profile> 
+github: https://github.com/avinashkr1612 
 lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
