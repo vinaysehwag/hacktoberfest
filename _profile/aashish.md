@@ -14,8 +14,8 @@ email: imashishmalik.45@gmail.com
 quora: https://www.quora.com/profile/Aashish-41
 medium: https://medium.com/@theashishmalik
 github: https://github.com/aashish45
-linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
+linkedin: https://www.linkedin.com/in/aashish-malik-22ab81125/
+instagram: https://www.instagram.com/theashishmalik/
 
 # Optional
 # Upload the image to imgur and
