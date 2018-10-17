@@ -22,5 +22,5 @@ stackoverflow: https://stackoverflow.com/users/9011225/amit-singh
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://i.imgur.com/XupJe2p.jpg
 ---
