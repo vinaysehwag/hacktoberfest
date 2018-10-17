@@ -14,8 +14,8 @@ email: krishankumarsrivastava289@gmail.com
 google: https://plus.google.com/u/0/110623237275677595642
 github: https://github.com/KrishanKumarSrivastava 
 youtube: https://www.youtube.com/channel/UCS5aAuaP1EwSBugGCSb1CjQ
-twitter: <Your Twitter profile>
-instagram: <Your Instagram profile>
+twitter: https://twitter.com/KRISHANKUMARSR0
+instagram: https://www.instagram.com/krishan_kumar_srivastava/
 
 # Optional
 # Upload the image to imgur and
