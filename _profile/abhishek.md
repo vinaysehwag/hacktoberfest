@@ -4,11 +4,11 @@ title: profile
 
 name: Abhishek Chhabra
 email: abhishekchhabra107@gmail.com
-gitlab: <Your GitLab profile>
-medium: <Your Medium profile>
-github: <Your GitHub profile> 
-twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
-picture: <Link to your image>
+gitlab: https://gitlab.com/chhabrabhishek
+medium: https://medium.com/@abhishekchhabra107
+github: https://github.com/chhabrabhishek 
+twitter: https://twitter.com/Abhishe32219777
+linkedin: https://www.linkedin.com/in/abhishek-chhabra-463a10142/
+instagram: https://www.instagram.com/abhishek_chhabra1/
+picture: http://i.imgur.com/Dxlk9iQr.jpg
 ---
