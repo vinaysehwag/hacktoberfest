@@ -12,10 +12,7 @@ name: Avinash Kumar
 # Optional, atleast 2 recommended
 email: avinashkr1612@gmail.com
 github: https://github.com/avinashkr1612 
-lastfm: <Your lastfm profile>
-spotify: <Your Spotify profile>
-youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
+twitter: https://twitter.com/avinashkr1612
 linkedin: <Your LinkedIn profile>
 instagram: <Your Instagram profile>
 pinterest: <Your Pinterest profile>
