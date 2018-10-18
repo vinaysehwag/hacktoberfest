@@ -13,7 +13,7 @@ name: Avinash Kumar
 email: avinashkr1612@gmail.com
 github: https://github.com/avinashkr1612 
 twitter: https://twitter.com/avinashkr1612
-linkedin: <Your LinkedIn profile>
+linkedin: https://www.linkedin.com/in/avinash-kumar-6bb485134/
 instagram: <Your Instagram profile>
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
