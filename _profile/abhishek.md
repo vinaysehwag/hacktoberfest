@@ -1,16 +1,9 @@
 ---
-# This template adds a profile to hacktoberfest. Checkout sample profile at
-# https://github.com/DotSlashCommunity/hacktoberfest/blob/master/_profile/ksdme.md
-
-# Required
 layout: page
 title: profile
 
-# Required
-name: <Your name here>
-
-# Optional, atleast 2 recommended
-email: <Your email address>
+name: Abhishek Chhabra
+email: abhishekchhabra107@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
@@ -26,9 +19,5 @@ linkedin: <Your LinkedIn profile>
 instagram: <Your Instagram profile>
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
-
-# Optional
-# Upload the image to imgur and
-# paste the direct link to image
 picture: <Link to your image>
 ---
