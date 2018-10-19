@@ -19,7 +19,7 @@ gitlab: <Your GitLab profile>
 medium: <Your Medium profile>
 github: https://github.com/akku1297
 lastfm: <Your lastfm profile>
-spotify: <Your Spotify profile>
+spotify: https://open.spotify.com/user/purohit.aakansha?si=7kqdVq3IReGQ1THjMkMbZQ
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
 linkedin: https://www.linkedin.com/in/aakansha-purohit-1091a176/
