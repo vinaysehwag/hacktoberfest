@@ -11,7 +11,7 @@ name: Aakansha Purohit
 
 # Optional, atleast 2 recommended
 email: purohit.aakansha@gmai.com
-quora: <Your Quora profile>
+quora: https://www.quora.com/profile/Akansha-Purohit
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
 google: <Your Google+ profile>
