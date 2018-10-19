@@ -10,7 +10,7 @@ title: profile
 name: Aakansha Purohit
 
 # Optional, atleast 2 recommended
-email: <Your email address>
+email: purohit.aakansha@gmai.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
