@@ -22,7 +22,7 @@ lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
+linkedin: https://www.linkedin.com/in/aakansha-purohit-1091a176/
 instagram: <Your Instagram profile>
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
