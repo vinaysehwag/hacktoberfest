@@ -14,9 +14,7 @@ email: avinashkr1612@gmail.com
 github: https://github.com/avinashkr1612 
 twitter: https://twitter.com/avinashkr1612
 linkedin: https://www.linkedin.com/in/avinash-kumar-6bb485134/
-instagram: <Your Instagram profile>
-pinterest: <Your Pinterest profile>
-stackoverflow: <Your StackOverflow profile>
+instagram: https://www.instagram.com/avinashkr1612/
 
 # Optional
 # Upload the image to imgur and
