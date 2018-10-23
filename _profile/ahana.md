@@ -1,5 +1,4 @@
 ---
-# This template adds a profile to hacktoberfest. Checkout sample profile at
 # https://github.com/DotSlashCommunity/hacktoberfest/blob/master/_profile/ksdme.md
 
 # Required
@@ -21,7 +20,7 @@ github: <Your GitHub profile>
 lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
+twitter: twitter.com/ahanadrall
 linkedin: <Your LinkedIn profile>
 instagram: instagram.com/ahanadrall
 pinterest: https://in.pinterest.com/ahanadrall/
