@@ -19,5 +19,5 @@ instagram: https://www.instagram.com/avinashkr1612/
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://imgur.com/ohbKem6
 ---
