@@ -24,7 +24,7 @@ youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
 linkedin: <Your LinkedIn profile>
 instagram: instagram.com/ahanadrall
-pinterest: <Your Pinterest profile>
+pinterest: https://in.pinterest.com/ahanadrall/
 stackoverflow: <Your StackOverflow profile>
 
 # Optional
