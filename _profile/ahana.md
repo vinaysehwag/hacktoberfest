@@ -23,7 +23,7 @@ spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
 linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
+instagram: instagram.com/ahanadrall
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
 
