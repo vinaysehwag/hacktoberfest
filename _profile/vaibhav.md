@@ -11,6 +11,7 @@ name: Vaibhav Singh
 
 # Optional, atleast 2 recommended
 email: techmate1999@gmail.com
+google: https://plus.google.com/112818494423250347875
 github: <Your GitHub profile> 
 linkedin: <Your LinkedIn profile>
 instagram: <Your Instagram profile>
