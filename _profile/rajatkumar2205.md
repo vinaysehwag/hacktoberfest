@@ -21,7 +21,7 @@ github: <Your GitHub profile>
 lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
+twitter: https://twitter.com/starhawke_rajat
 linkedin: <Your LinkedIn profile>
 instagram: https://www.instagram.com/starhawk_rajat/
 pinterest: <Your Pinterest profile>
