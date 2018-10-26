@@ -11,7 +11,7 @@ name: Rajat Kumar
 
 # Optional, atleast 2 recommended
 email: rajatkumar17a1@gmail.com
-quora: <Your Quora profile>
+quora: https://www.quora.com/profile/Rajat-Kumar-785
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
 google: <Your Google+ profile>
