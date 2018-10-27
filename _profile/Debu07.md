@@ -23,7 +23,7 @@ spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
 linkedin: <Your LinkedIn profile>
-instagram: _vedantmehta_
+instagram: https://www.instagram.com/_vedantmehta_/
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
 
