@@ -11,8 +11,7 @@ name: Nikhil Mishra
 
 # Optional, atleast 2 recommended
 email: nikhilindia30111999@gmail.com
-google: <Your Google+ profile>
-github: <Your GitHub profile>
+github: https://github.com/IEIrodov
 youtube: https://www.youtube.com/channel/UCGsXBbt2xs4I0yf0l0H4qVA
 instagram: https://www.instagram.com/nikkz_101/
 
