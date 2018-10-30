@@ -13,8 +13,8 @@ name: Nikhil Mishra
 email: nikhilindia30111999@gmail.com
 google: <Your Google+ profile>
 github: <Your GitHub profile>
-youtube: <Your YouTube profile>
-instagram: <Your Instagram profile>
+youtube: https://www.youtube.com/channel/UCGsXBbt2xs4I0yf0l0H4qVA
+instagram: https://www.instagram.com/nikkz_101/
 
 # Optional
 # Upload the image to imgur and
