@@ -17,7 +17,7 @@ github: https://github.com/prashantxc
 youtube: https://www.youtube.com/channel/UC52rPqJIT2hPfwWFSHTrP7w
 twitter: https://twitter.com/speakingsingh
 linkedin: https://www.linkedin.com/in/prashantxc/
-instagram: https://www.instagram.com/itsprashantsingh/
+instagram: https://www.instagram.com/kahaniwalaprashant/
 
 # Optional
 # Upload the image to imgur and
