@@ -7,20 +7,16 @@ layout: page
 title: profile
 
 # Required
-name: Bhavishya
+name: Nikhil Mishra
 
 # Optional, atleast 2 recommended
-email: bhavishya20@gmail.com
-reddit: https://www.reddit.com/user/RayXover
-google: https://plus.google.com/u/0/101285328873271335157
-github: https://github.com/JiroZ
-twitter: @bhavishyakumar1
-instagram: @bhavishya_kv
-stackoverflow: https://stackoverflow.com/users/6753372/bhavishya
-
+email: nikhilindia30111999@gmail.com
+github: https://github.com/IEIrodov
+youtube: https://www.youtube.com/channel/UCGsXBbt2xs4I0yf0l0H4qVA
+instagram: https://www.instagram.com/nikkz_101/
 
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://avatars3.githubusercontent.com/u/43510137?s=400&u=01cf9e5f972e6b2c9c9bca16a893aaa5d36d347a&v=4
 ---
